@@ -13,6 +13,6 @@
 
   A travel survey form for travel enthusiasts.
   
-  View on codepen --> https://codepen.io/teevic80/pen/NQpvaN
+  View on codepen --> https://codepen.io/teevic80/full/NQpvaN
 
    
