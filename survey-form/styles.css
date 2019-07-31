@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    padding: 0;
+    background-color: white;
+    font-family: 'Lato', Sans-Serif, Arial;
+}
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 39px;
+}
+#description {
+  text-align: center;
+}
+#form-card {
+    width: 620px;
+    height: 1550px;
+    background: #222222;
+    color: #AAAAAA;
+    top: 10%;
+    left: 26%;
+    position: relative;
+    padding: 20px 40px;
+    border-radius: 35px; 
+}
+#part-one input{
+  padding: 10px;
+    width: 50%;
+    height: 60%;
+    margin-bottom: 25px;
+}
+#part-two {
+  padding: 25px;
+  padding-left: 0px;
+}
+#dropdown {
+  padding: 5px;
+}
+li {   
+  padding: 20px;
+  padding-left: 0px; 
+  /* list-style: none;
+  margin: 0;
+  padding: 0;
+	overflow: auto;   */
+} 
+ul li{
+  display: block;
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 70px;
+	border-bottom: 1px solid #333;
+}
+#checkboxes {
+  padding: 10px;
+}
+#text-area {
+  padding: 15px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+button {
+  padding: 12px;
+  width: 140px;
+  font-size: 15px;
+  background: #AAAAAA;
+  color: black;
+  border-radius: 10px;
+}
+button:hover {
+  background: teal;
+  color: black;   
+} 
