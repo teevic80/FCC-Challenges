@@ -140,5 +140,6 @@ button:hover {
 
 #form input[type=submit]:hover {
   background: teal;
-  color: black;  
+  color: black;
+
 }   
