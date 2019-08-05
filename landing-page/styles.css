@@ -6,7 +6,7 @@
   }
 body {
   background-image: url("https://t3.ftcdn.net/jpg/01/38/51/52/240_F_138515297_Fn0KY76chSwKhITC3Sz2eXfx8jBFNB1T.jpg");
-  font-family: 'Satisfy', Arial;
+  font-family: Arial;
   font-size: 0.8em;
 }
 #header {
@@ -53,10 +53,10 @@ body {
 }
 #info p {
   font-size: 2vw;
-  /* width: 600px; */
+  width: 600px;
   display: inline;
   padding: 0px;
-  font-family: 'Satisfy'
+  font-family: Arial;
 }
  img {
    float: right;
@@ -66,7 +66,7 @@ body {
   display: grid;
   grid-template-columns: 300px 300px 300px;
   padding: 2px;
-}
+  }
 .container .d1 {
   border: solid teal;
   color: white;
@@ -119,6 +119,7 @@ button:hover {
     position: relative;
     padding: 20px 20px;
     border-radius: 35px; 
+    font-family: 'Satisfy';
 }
 #form input{
     padding: 5px;
@@ -140,6 +141,5 @@ button:hover {
 
 #form input[type=submit]:hover {
   background: teal;
-  color: black;
-
+  color: black;  
 }   
