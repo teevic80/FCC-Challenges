@@ -1,0 +1,27 @@
+@media (min-width: 400px) {
+    font-size: 20px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  main {
+    position: absolute;
+    right: 0px;
+    width: 58%;
+    border: 1px solid;
+    padding: 10px;
+    
+  }
+   #navbar {
+    position: fixed;
+  } 
+  .nav-link {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: teal;
+    border: 1px solid black;
+  }
+  h3 {
+    color: teal;
+  }
